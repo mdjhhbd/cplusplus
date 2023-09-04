@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692027631 source:c:\users\md jahid hasan\dropbox\c code\test\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
